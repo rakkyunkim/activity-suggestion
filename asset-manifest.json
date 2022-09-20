@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/activity-suggestion/static/css/main.5d3e1a3d.css",
+    "main.js": "/activity-suggestion/static/js/main.3c03d888.js",
+    "index.html": "/activity-suggestion/index.html",
+    "main.5d3e1a3d.css.map": "/activity-suggestion/static/css/main.5d3e1a3d.css.map",
+    "main.3c03d888.js.map": "/activity-suggestion/static/js/main.3c03d888.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d3e1a3d.css",
+    "static/js/main.3c03d888.js"
+  ]
+}
