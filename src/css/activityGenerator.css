@@ -1,0 +1,54 @@
+h1{
+    font-size: 150px;
+}
+.wrapper-form{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    font-size: 100px;
+}
+.choice-buttons{
+    display: flex;
+    width: 1000px;
+    justify-content: space-evenly;
+}
+.go-back-bttn{
+    width: 300px;
+    height: 100px;
+    font-size: 50px;
+}
+.activities-div{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.buttons{
+    display: flex;
+    width: 700px;
+    justify-content: space-between;
+}
+
+.choice-no-div{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.num-participants-form{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.num-participants-form input{
+    height: 30px;
+    margin-left: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 10px;
+}
